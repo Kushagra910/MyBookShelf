@@ -2,6 +2,46 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# MyBookShelf
+
+This is a React application that allows users to search for books using the Open Library API and maintain a personal bookshelf in the browser using localStorage.
+
+## Features
+
+- Real-time search for books using the Open Library API.
+- Add books to a personal bookshelf.
+- Persistent bookshelf storage using localStorage.
+- User-friendly and responsive interface.
+- Added medial queries for responsiveness.
+
+## Tech Stack
+
+- React
+- Axios
+- React Router
+- React Hot Toast
+- Tailwind CSS (Styling)
+
+## Prerequisites
+
+Make sure you have the following installed on your machine:
+
+- Node.js (v14 or later)
+- npm (v6 or later) or yarn (v1.22 or later)
+
+## Getting Started
+
+Follow these steps to set up and run the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/Kushagra910/MyBookShelf.git
+cd MyBookShelf
+npm install
+npm run start
+```
+
 ## Available Scripts
 
 In the project directory, you can run:
